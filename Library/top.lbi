@@ -1,0 +1,139 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+#apDiv1 {
+	position: absolute;
+	left: 591px;
+	top: 13px;
+	width: 496px;
+	height: 32px;
+	z-index: 1;
+}
+#apDiv2 {
+	position: absolute;
+	left: 112px;
+	top: 40px;
+	width: 133px;
+	height: 113px;
+	z-index: 2;
+}
+#apDiv3 {
+	position: absolute;
+	left: 709px;
+	top: 119px;
+	width: 142px;
+	height: 23px;
+	z-index: 3;
+	color: #666;
+	font-size: 14px;
+}
+a:link {
+	color: #930;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #930;
+}
+a:hover {
+	text-decoration: none;
+	color: #C69;
+}
+a:active {
+	text-decoration: none;
+	color: #900;
+	font-size: 16px;
+	font-weight: bold;
+}
+#apDiv4 {
+	position: absolute;
+	left: 871px;
+	top: 69px;
+	width: 162px;
+	height: 78px;
+	z-index: 4;
+}
+#apDiv5 {
+	position: absolute;
+	width: 143px;
+	height: 20px;
+	z-index: 5;
+	left: 26px;
+	top: 16px;
+	font-size: 16px;
+	color: #930;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+#apDiv6 {
+	position: absolute;
+	left: 769px;
+	top: 155px;
+	width: 241px;
+	height: 21px;
+	z-index: 5;
+}
+a {
+	font-size: 16px;
+}
+body,td,th {
+	font-size: 16px;
+}
+#apDiv7 {
+	position: absolute;
+	left: 70px;
+	top: 294px;
+	width: 674px;
+	height: 148px;
+	z-index: 6;
+}
+body {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+</style>
+<div id="apDiv1">
+  <span style="font-weight: normal" width="100%" border="0" cellspacing="0" cellpadding="0"></span>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="font-family: '幼圆'; color: #900; font-weight: bold;"><a href="../index.html">首&nbsp; 页</a></td>
+      <td align="center" style="font-family: '幼圆'; color: #900; font-weight: bold;"><a href="../账户.html">账&nbsp; 户</a></a></td>
+      <td align="center" style="font-family: '幼圆'; color: #900; font-weight: bold;"><a href="../美妆课堂.html">美妆课堂</a></td>
+      <td align="center" style="font-family: '幼圆'; color: #900; font-weight: bold;"><a href="../关于我们.html">关于我们</a></td>
+      <td align="center" style="font-family: '幼圆'; color: #900; font-weight: bold;"><a href="../联系我们.html">联系我们</a></td>
+    </tr>
+  </table>
+</div>
+<div id="apDiv2"><a href="../index.html"><img src="images/logo.png" width="125" height="113" alt="logo"></a></div>
+<div id="apDiv3" style="font-size: 18px"><a href="../账户.html">创建账户</a> 或<a href="#"> 登录</a></div>
+<div id="apDiv4">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><img src="images/cart-bg.jpg" width="193" height="68" alt="cart-bg">
+      <div id="apDiv5">SHOPPING CART</div></td>
+    </tr>
+  </table>
+</div>
+<div id="apDiv6">
+  <form name="form1" method="post" action="">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><label for="searchbox"></label>
+        <input type="text"  border="2" name="searchbox" id="searchbox"></td>
+        <td><input type="submit" name="search" id="search" value="搜索"></td>
+      </tr>
+    </table>
+  </form>
+</div>
+<table width="100%" height="149" border="0" align="center" cellpadding="0" cellspacing="0"  background="images/top-bg.jpg">
+  <tr>
+    <td height="149">&nbsp;</td>
+  </tr>
+</table>
+<table width="600" height="36" border="0" align="left" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" style="font-size: 16px; color: #900; font-weight: bold;"><a href="#">新&nbsp; 品</a></td>
+    <td align="center" style="font-size: 16px; font-family: '微软雅黑'; color: #930; font-weight: bold;"><a href="#">护&nbsp; 肤</a></td>
+    <td align="center" style="font-size: 16px; font-family: '微软雅黑'; color: #930; font-weight: bold;"><a href="#">彩&nbsp; 妆</a></td>
+    <td align="center" style="font-size: 16px; font-family: '微软雅黑'; color: #930; font-weight: bold;"><a href="#">美妆工具</a></td>
+    <td align="center" style="font-size: 16px; font-family: '微软雅黑'; color: #930; font-weight: bold;"><a href="#">礼&nbsp; 盒</a></td>
+  </tr>
+</table>
